@@ -8,7 +8,8 @@ body {
 }
 
 h1{
-	font:bold white 50px arial, sans-serif;
+	color: white;
+	font:bold 50px arial, sans-serif;
     margin-top: 50px;
 }
 
@@ -17,7 +18,8 @@ hr{
 }
 
 h3{
-    font:white 20px Georgia,serif; 
+    color: white;
+    font: 20px Georgia,serif; 
 }
 
 #slogan{
@@ -27,10 +29,12 @@ h3{
 	padding-right:30px;
 	padding-bottom: 50px;
 	padding-left: 30px;
-	font:white 30px arial, sans-serif;
+	color: white;
+	font:30px arial, sans-serif;
 }
 
 p{
-	font:white 0px arial, sans-serif;
+	color: white;
+	font: 0px arial, sans-serif;
 	margin-bottom: 50px;
 }
