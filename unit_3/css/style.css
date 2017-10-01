@@ -1,0 +1,36 @@
+body {
+	background-color: #dae1fc;
+	background-image: url(http://www.launchpadapps.com.au/wp-content/uploads/2017/08/Pocket_Tools_Title_Flatlay2.jpg);
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+	text-align:center;
+}
+
+h1{
+	font:bold 50px arial, sans-serif;
+    margin-top: 100px;
+}
+
+hr{
+	width:200px;
+}
+
+h3{
+    font:20px Georgia,serif; 
+}
+
+#slogan{
+	border:10px solid #ffffff;
+	border-spacing: 20px 60px;
+	padding-top: 50px;
+	padding-right:30px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	font:30px arial, sans-serif;
+}
+
+p{
+	font:20px arial, sans-serif;
+	margin-bottom: 50px;
+}
