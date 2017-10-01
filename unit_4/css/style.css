@@ -22,8 +22,7 @@ h1{
 	color: white;
 	font-family:'Anton';
     margin-top: 100px;
-    letter-spacing:2em;
-    word-spacing:2em;
+    letter-spacing:1.5em;
 }
 
 hr{
@@ -34,7 +33,7 @@ h3{
     color: white;
     margin-left: 150px;
     margin-right: 150px;
-    line-height: 1.5em;
+    line-height: 2em;
     font: 20px Georgia,serif; 
 }
 
