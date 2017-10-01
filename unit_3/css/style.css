@@ -1,16 +1,22 @@
 body {
     text-align:center;
 	background-color: #ffffff;
-	background-image: url(http://www.launchpadapps.com.au/wp-content/uploads/2017/08/Pocket_Tools_Title_Flatlay2.jpg);
-	background-position: center;
-	background-repeat:no-repeat;
 
+}
+
+img{
+	opacity:0.7;
+	margin-top: 300px;
+}
+
+img:hover{
+   opacity: 1.0;
 }
 
 h1{
 	color: white;
 	font:bold 50px arial, sans-serif;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 hr{
@@ -19,6 +25,8 @@ hr{
 
 h3{
     color: white;
+    margin-left: 50px;
+    margin-right: 50px;
     font: 20px Georgia,serif; 
 }
 
